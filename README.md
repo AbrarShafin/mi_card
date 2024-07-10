@@ -4,7 +4,7 @@ A Flutter app that serves as a personal business card, featuring a clean and int
 
 ## Screenshot
 
-![App Screenshot](screenshots/Screenshot1.png)
+<img src="screenshots/Screenshot1.png" alt="App Screenshot" width="300"/>
 
 ## Profile
 
